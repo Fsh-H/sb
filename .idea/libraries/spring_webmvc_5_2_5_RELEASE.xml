@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="spring-webmvc-5.2.5.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../spring/required/spring-webmvc-5.2.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring/required/spring-web-5.2.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring/required/spring-expression-5.2.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring/required/spring-core-5.2.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring/required/spring-context-support-5.2.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring/required/spring-context-5.2.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring/required/spring-beans-5.2.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../spring/required/spring-aop-5.2.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

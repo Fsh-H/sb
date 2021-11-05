@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="taglibs-1.2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../06-JSP/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../06-JSP/taglibs-standard-jstlel-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../06-JSP/taglibs-standard-compat-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../06-JSP/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../06-JSP/apache-tomcat-9.0.54/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../06-JSP/apache-tomcat-9.0.54/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
